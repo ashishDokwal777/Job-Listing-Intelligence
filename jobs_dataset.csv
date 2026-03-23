@@ -1,0 +1,501 @@
+title,location,salary,skills,experience
+Data Analyst,Remote,$95k - $118k,"Sql, Power Bi, R",5+ years
+Data Analyst,Chicago,$67k - $84k,"Sql, Tableau",3-5 years
+Lead Data Analyst,Remote,$142k - $168k,"Sql, Power Bi, Azure, Machine Learning",7+ years
+Data Scientist,Los Angeles,$115k - $130k,"Python, Machine Learning, R, Excel, Azure",3-5 years
+Data Scientist,Boston,$116k - $144k,"Python, Machine Learning, R, Tableau",2-4 years
+Senior Data Scientist,Remote,$175k - $190k,"Python, Machine Learning, Sql, Power Bi",5+ years
+Senior Data Analyst,Remote,$119k - $148k,"Sql, Power Bi, Python",7+ years
+Data Scientist,Remote,$115k - $136k,"Python, Machine Learning, R",3-5 years
+Data Analyst,Boston,$103k - $126k,"Sql, Excel, Python",7+ years
+Machine Learning Engineer,Los Angeles,$167k - $191k,"Python, Machine Learning, R, Spark, Azure",5+ years
+Data Engineer,Los Angeles,$116k - $146k,"Sql, Python, Azure, Power Bi, Machine Learning",2-4 years
+Data Scientist,Remote,$107k - $132k,"Python, Machine Learning, R, Power Bi",2-4 years
+Lead Data Analyst,New York,$139k - $157k,"Sql, Tableau, Python",3-5 years
+Data Scientist,San Francisco,$122k - $142k,"Python, Machine Learning, R, Sql, Spark",3-5 years
+Data Engineer,Atlanta,$104k - $131k,"Sql, Python, Azure",0-2 years
+Data Engineer,Remote,$98k - $121k,"Sql, Python, Azure, R",0-2 years
+BI Developer,Seattle,$78k - $104k,"Sql, Tableau, Python, Azure, Aws",0-2 years
+Data Scientist,Remote,$130k - $156k,"Python, Machine Learning, R, Tableau, Aws",5+ years
+Lead Data Analyst,Remote,$135k - $158k,"Sql, Power Bi, Python",7+ years
+Data Engineer,Los Angeles,$143k - $162k,"Sql, Python, Azure, Spark",7+ years
+Data Scientist,Denver,$141k - $161k,"Python, Machine Learning, Sql, Excel, R",5+ years
+Senior Data Analyst,Atlanta,$121k - $144k,"Sql, Tableau, Machine Learning, Aws",7+ years
+Data Engineer,Denver,$107k - $135k,"Sql, Python, Azure, Spark",3-5 years
+Machine Learning Engineer,Austin,$125k - $142k,"Python, Machine Learning, R",3-5 years
+Senior Data Analyst,Remote,$126k - $142k,"Sql, Excel, Python",7+ years
+Data Analyst,Remote,$104k - $119k,"Sql, Tableau, Python",7+ years
+Analytics Engineer,Austin,$135k - $159k,"Sql, Python, Azure",7+ years
+Senior Data Scientist,Los Angeles,$173k - $190k,"Python, Machine Learning, R",7+ years
+BI Developer,Remote,$85k - $100k,"Sql, Excel, Power Bi, Python",2-4 years
+Analytics Engineer,Austin,$141k - $168k,"Sql, Python, Aws, Spark",7+ years
+Data Analyst,Remote,$62k - $90k,"Sql, Power Bi, Python, Spark",2-4 years
+Senior Data Scientist,Austin,$168k - $189k,"Python, Machine Learning, R",5+ years
+Data Scientist,San Francisco,$160k - $186k,"Python, Machine Learning, R, Excel",7+ years
+Data Analyst,Remote,$62k - $89k,"Sql, Excel, Spark, Machine Learning",3-5 years
+Data Engineer,Remote,$113k - $135k,"Sql, Python, Aws, Spark",2-4 years
+BI Developer,Denver,$115k - $136k,"Sql, Power Bi",7+ years
+Data Analyst,Remote,$68k - $87k,"Sql, Excel, Machine Learning, Azure",2-4 years
+Analytics Engineer,Boston,$127k - $156k,"Sql, Python, Aws, Spark, Machine Learning",5+ years
+Data Analyst,Denver,$97k - $127k,"Sql, Excel, Python, R, Power Bi",5+ years
+Data Analyst,Austin,$91k - $119k,"Sql, Excel, Python",7+ years
+Analytics Engineer,Austin,$97k - $119k,"Sql, Python, Azure, Tableau, Aws",2-4 years
+Lead Data Analyst,Remote,$142k - $160k,"Sql, Tableau",5+ years
+BI Developer,New York,$86k - $111k,"Sql, Tableau, Python, Machine Learning",0-2 years
+Senior Data Scientist,Los Angeles,$162k - $185k,"Python, Machine Learning, Sql, Excel, Tableau",5+ years
+Data Scientist,Remote,$140k - $155k,"Python, Machine Learning, R, Sql",7+ years
+Data Engineer,Los Angeles,$106k - $126k,"Sql, Python, Azure",0-2 years
+Data Analyst,Remote,$89k - $107k,"Sql, Excel",7+ years
+Senior Data Analyst,Boston,$127k - $151k,"Sql, Power Bi, Excel",7+ years
+Senior Data Analyst,Los Angeles,$115k - $130k,"Sql, Power Bi, Python, Machine Learning",7+ years
+Data Scientist,Remote,$112k - $139k,"Python, Machine Learning, Sql, R",2-4 years
+Data Scientist,Boston,$109k - $139k,"Python, Machine Learning, Sql, Tableau, Azure",2-4 years
+Data Scientist,Remote,$138k - $156k,"Python, Machine Learning, Sql",5+ years
+Data Scientist,Remote,$115k - $137k,"Python, Machine Learning, Sql, Tableau",2-4 years
+Data Analyst,Remote,$64k - $87k,"Sql, Power Bi",3-5 years
+Senior Data Analyst,Atlanta,$134k - $152k,"Sql, Power Bi, Python, R",5+ years
+Analytics Engineer,Seattle,$163k - $183k,"Sql, Python, Azure, Excel, Spark",5+ years
+Lead Data Analyst,Boston,$147k - $176k,"Sql, Excel, Python",5+ years
+BI Developer,New York,$89k - $106k,"Sql, Excel, Python, Spark, Machine Learning",0-2 years
+Analytics Engineer,Chicago,$99k - $128k,"Sql, Python, Azure",0-2 years
+Data Engineer,Remote,$112k - $140k,"Sql, Python, Aws, Spark, Tableau",3-5 years
+Data Engineer,Remote,$114k - $142k,"Sql, Python, Aws",2-4 years
+Data Analyst,Remote,$74k - $96k,"Sql, Excel, Python",2-4 years
+BI Developer,Los Angeles,$108k - $132k,"Sql, Tableau, Python",5+ years
+Data Engineer,Boston,$153k - $174k,"Sql, Python, Azure, Spark",5+ years
+BI Developer,Denver,$81k - $109k,"Sql, Excel, Python, Tableau",3-5 years
+Lead Data Analyst,New York,$165k - $183k,"Sql, Excel, Python",7+ years
+Lead Data Analyst,Los Angeles,$145k - $168k,"Sql, Excel, Python, Power Bi",7+ years
+Senior Data Scientist,Denver,$145k - $175k,"Python, Machine Learning, R",3-5 years
+Analytics Engineer,Seattle,$148k - $164k,"Sql, Python, Azure",7+ years
+Analytics Engineer,Los Angeles,$113k - $136k,"Sql, Python, Aws, Spark",2-4 years
+Senior Data Analyst,Chicago,$104k - $133k,"Sql, Tableau, Python",3-5 years
+BI Developer,Chicago,$100k - $130k,"Sql, Tableau, Python, Power Bi, Excel",5+ years
+Machine Learning Engineer,San Francisco,$182k - $210k,"Python, Machine Learning, Sql",5+ years
+Machine Learning Engineer,Atlanta,$125k - $152k,"Python, Machine Learning, Sql",0-2 years
+BI Developer,New York,$109k - $133k,"Sql, Tableau, Python",3-5 years
+Data Analyst,Remote,$100k - $128k,"Sql, Power Bi, Python, R",7+ years
+Data Engineer,Austin,$112k - $140k,"Sql, Python, Aws, Machine Learning, Spark",3-5 years
+Senior Data Analyst,Remote,$119k - $134k,"Sql, Tableau, Power Bi, Azure, Python",7+ years
+Data Engineer,Remote,$149k - $179k,"Sql, Python, Aws, Tableau, Excel",5+ years
+Senior Data Analyst,Atlanta,$102k - $125k,"Sql, Power Bi, Python, Azure, Excel",3-5 years
+Data Analyst,New York,$124k - $141k,"Sql, Power Bi, Python",5+ years
+Analytics Engineer,New York,$115k - $143k,"Sql, Python, Aws",0-2 years
+Data Analyst,Remote,$100k - $130k,"Sql, Excel, Python",5+ years
+Data Analyst,New York,$77k - $103k,"Sql, Excel, Python",0-2 years
+Data Analyst,Remote,$95k - $124k,"Sql, Tableau, Spark",5+ years
+Machine Learning Engineer,Chicago,$161k - $187k,"Python, Machine Learning, R",7+ years
+Data Analyst,Boston,$76k - $101k,"Sql, Excel, Aws, Power Bi, Azure",2-4 years
+Data Scientist,Remote,$141k - $170k,"Python, Machine Learning, R, Sql, Aws",5+ years
+BI Developer,Austin,$103k - $129k,"Sql, Excel",5+ years
+Senior Data Analyst,Chicago,$135k - $160k,"Sql, Tableau, Python, Aws",7+ years
+Senior Data Scientist,Boston,$133k - $150k,"Python, Machine Learning, Sql",3-5 years
+Data Scientist,Remote,$86k - $111k,"Python, Machine Learning, Sql, Azure",0-2 years
+BI Developer,Remote,$75k - $103k,"Sql, Power Bi, Python, Spark, Azure",2-4 years
+Data Scientist,San Francisco,$133k - $151k,"Python, Machine Learning, R",3-5 years
+Data Analyst,Los Angeles,$90k - $110k,"Sql, Power Bi, Python, Excel",7+ years
+Senior Data Analyst,Atlanta,$118k - $146k,"Sql, Tableau",7+ years
+Lead Data Analyst,Atlanta,$159k - $183k,"Sql, Excel, Python",5+ years
+BI Developer,Remote,$68k - $85k,"Sql, Power Bi",3-5 years
+Data Analyst,Atlanta,$52k - $78k,"Sql, Power Bi, Python, Machine Learning",0-2 years
+Data Analyst,Chicago,$58k - $77k,"Sql, Excel, R, Power Bi",0-2 years
+Data Analyst,Austin,$102k - $122k,"Sql, Tableau, Python",5+ years
+Data Scientist,Atlanta,$140k - $157k,"Python, Machine Learning, Sql, Tableau, Excel",7+ years
+Data Engineer,Remote,$104k - $119k,"Sql, Python, Aws, Spark",0-2 years
+Senior Data Analyst,Chicago,$117k - $145k,"Sql, Tableau, R, Power Bi, Python",7+ years
+Senior Data Scientist,Denver,$140k - $167k,"Python, Machine Learning, R",3-5 years
+Senior Data Analyst,Seattle,$140k - $160k,"Sql, Power Bi, Excel, Machine Learning",7+ years
+Data Analyst,Los Angeles,$94k - $117k,"Sql, Tableau, Spark, Power Bi, Machine Learning",5+ years
+Senior Data Analyst,Atlanta,$122k - $150k,"Sql, Power Bi, Python, Excel, Spark",5+ years
+Senior Data Scientist,Remote,$175k - $198k,"Python, Machine Learning, Sql",7+ years
+Analytics Engineer,Austin,$114k - $135k,"Sql, Python, Aws",3-5 years
+Data Analyst,Remote,$56k - $86k,"Sql, Tableau, Python, Power Bi, Machine Learning",3-5 years
+Data Scientist,Chicago,$105k - $131k,"Python, Machine Learning, R",3-5 years
+Senior Data Analyst,Seattle,$109k - $128k,"Sql, Power Bi",3-5 years
+Data Scientist,New York,$157k - $176k,"Python, Machine Learning, R, Power Bi",5+ years
+Senior Data Scientist,Atlanta,$167k - $192k,"Python, Machine Learning, Sql",7+ years
+BI Developer,Remote,$97k - $126k,"Sql, Power Bi, Python, Excel, Spark",7+ years
+Senior Data Analyst,Atlanta,$88k - $108k,"Sql, Tableau, Python, Excel, Aws",3-5 years
+Data Scientist,Seattle,$120k - $142k,"Python, Machine Learning, R",2-4 years
+Machine Learning Engineer,Austin,$137k - $166k,"Python, Machine Learning, R",2-4 years
+Data Scientist,Remote,$140k - $162k,"Python, Machine Learning, R",7+ years
+Machine Learning Engineer,New York,$155k - $174k,"Python, Machine Learning, Sql",2-4 years
+Data Scientist,Remote,$97k - $126k,"Python, Machine Learning, Sql",0-2 years
+Data Engineer,Austin,$145k - $165k,"Sql, Python, Azure, Spark",7+ years
+Data Engineer,New York,$114k - $143k,"Sql, Python, Aws, Spark, Azure",0-2 years
+Senior Data Scientist,Remote,$169k - $184k,"Python, Machine Learning, Sql, Tableau, Azure",5+ years
+Data Engineer,Atlanta,$100k - $121k,"Sql, Python, Aws, Spark",0-2 years
+Senior Data Analyst,New York,$145k - $166k,"Sql, Tableau, Python",7+ years
+Data Analyst,New York,$83k - $104k,"Sql, Tableau, Python, Excel, Power Bi",3-5 years
+Data Analyst,San Francisco,$81k - $111k,"Sql, Excel, Aws",3-5 years
+Lead Data Analyst,Austin,$158k - $181k,"Sql, Tableau, Aws, Excel",7+ years
+Data Scientist,Los Angeles,$101k - $118k,"Python, Machine Learning, R, Tableau",3-5 years
+Data Scientist,Los Angeles,$135k - $151k,"Python, Machine Learning, Sql",5+ years
+Senior Data Scientist,Remote,$174k - $196k,"Python, Machine Learning, Sql",7+ years
+Data Analyst,Remote,$58k - $84k,"Sql, Power Bi, Python",2-4 years
+Senior Data Analyst,Remote,$123k - $143k,"Sql, Excel, Python",7+ years
+Lead Data Analyst,Atlanta,$151k - $171k,"Sql, Power Bi, Machine Learning, Excel",7+ years
+Data Analyst,New York,$84k - $111k,"Sql, Tableau, Excel, R",0-2 years
+Senior Data Analyst,Denver,$130k - $151k,"Sql, Power Bi, Python, Excel",7+ years
+Data Engineer,Austin,$90k - $119k,"Sql, Python, Azure, Spark",0-2 years
+Data Analyst,Atlanta,$61k - $90k,"Sql, Excel, Spark, Power Bi",2-4 years
+Data Analyst,Denver,$62k - $77k,"Sql, Power Bi, Excel",0-2 years
+Machine Learning Engineer,Remote,$163k - $179k,"Python, Machine Learning, Sql, Tableau",5+ years
+Analytics Engineer,Atlanta,$100k - $118k,"Sql, Python, Azure, Aws, R",2-4 years
+BI Developer,Austin,$81k - $109k,"Sql, Tableau, Python, Aws",3-5 years
+Lead Data Analyst,Remote,$106k - $121k,"Sql, Tableau",3-5 years
+Senior Data Analyst,Remote,$117k - $139k,"Sql, Tableau, Azure",7+ years
+Data Analyst,New York,$83k - $108k,"Sql, Power Bi, Python, Machine Learning, Excel",2-4 years
+Senior Data Analyst,Denver,$91k - $119k,"Sql, Tableau, Python, Power Bi",3-5 years
+Data Analyst,Remote,$95k - $112k,"Sql, Excel",5+ years
+Senior Data Analyst,Atlanta,$130k - $154k,"Sql, Excel, R",5+ years
+Data Scientist,Austin,$117k - $142k,"Python, Machine Learning, Sql",2-4 years
+BI Developer,San Francisco,$134k - $160k,"Sql, Excel, Power Bi, Spark",7+ years
+Data Scientist,Seattle,$160k - $182k,"Python, Machine Learning, R, Excel",5+ years
+Data Analyst,Los Angeles,$78k - $98k,"Sql, Excel, Python",2-4 years
+BI Developer,San Francisco,$82k - $105k,"Sql, Excel, Machine Learning",0-2 years
+Data Analyst,Remote,$86k - $105k,"Sql, Tableau, Python",7+ years
+Lead Data Analyst,Remote,$136k - $159k,"Sql, Excel, Python",7+ years
+Data Analyst,Atlanta,$69k - $97k,"Sql, Power Bi, Python, Aws, Machine Learning",3-5 years
+Analytics Engineer,Remote,$127k - $151k,"Sql, Python, Azure, Spark",7+ years
+Lead Data Analyst,Remote,$124k - $143k,"Sql, Tableau, Python",3-5 years
+BI Developer,San Francisco,$138k - $163k,"Sql, Tableau, Machine Learning, Power Bi, Aws",5+ years
+Analytics Engineer,Remote,$93k - $110k,"Sql, Python, Azure, Spark",0-2 years
+Data Scientist,New York,$160k - $185k,"Python, Machine Learning, R, Spark",7+ years
+BI Developer,Atlanta,$115k - $139k,"Sql, Excel",7+ years
+Data Analyst,Remote,$92k - $113k,"Sql, Tableau, Python, Power Bi, Excel",5+ years
+Data Analyst,Remote,$75k - $97k,"Sql, Power Bi, Spark, Aws",2-4 years
+Data Analyst,Seattle,$121k - $137k,"Sql, Tableau, R",5+ years
+Lead Data Analyst,Remote,$105k - $126k,"Sql, Excel, Python",3-5 years
+Analytics Engineer,Remote,$97k - $126k,"Sql, Python, Azure",3-5 years
+Lead Data Analyst,Remote,$152k - $181k,"Sql, Excel, R",5+ years
+Analytics Engineer,Atlanta,$107k - $124k,"Sql, Python, Aws, Spark, Power Bi",2-4 years
+Data Scientist,Boston,$101k - $128k,"Python, Machine Learning, R, Spark, Tableau",3-5 years
+Analytics Engineer,Denver,$93k - $114k,"Sql, Python, Azure, R",0-2 years
+Lead Data Analyst,Seattle,$161k - $179k,"Sql, Tableau, Python",5+ years
+Senior Data Scientist,New York,$190k - $214k,"Python, Machine Learning, Sql",5+ years
+BI Developer,Remote,$65k - $95k,"Sql, Excel, Python, R",0-2 years
+Lead Data Analyst,New York,$168k - $189k,"Sql, Power Bi, Python",7+ years
+Senior Data Analyst,Remote,$110k - $136k,"Sql, Tableau, Python, Spark",5+ years
+Senior Data Analyst,San Francisco,$136k - $157k,"Sql, Power Bi, Python, Machine Learning",7+ years
+Data Engineer,Remote,$90k - $110k,"Sql, Python, Azure",0-2 years
+BI Developer,New York,$131k - $149k,"Sql, Tableau, Excel",5+ years
+Data Scientist,Remote,$99k - $126k,"Python, Machine Learning, R, Spark",0-2 years
+Analytics Engineer,Remote,$93k - $114k,"Sql, Python, Aws, Spark, R",0-2 years
+Data Scientist,Remote,$135k - $155k,"Python, Machine Learning, R, Tableau, Spark",7+ years
+Senior Data Analyst,Remote,$117k - $147k,"Sql, Excel, Tableau, Azure",7+ years
+Data Scientist,Denver,$146k - $174k,"Python, Machine Learning, R",7+ years
+Data Scientist,Remote,$100k - $122k,"Python, Machine Learning, R",3-5 years
+Data Engineer,Austin,$112k - $138k,"Sql, Python, Azure, Aws",2-4 years
+Machine Learning Engineer,San Francisco,$175k - $197k,"Python, Machine Learning, Sql",5+ years
+Data Scientist,Remote,$103k - $120k,"Python, Machine Learning, R, Azure",3-5 years
+Senior Data Analyst,Chicago,$95k - $115k,"Sql, Power Bi, Python",3-5 years
+Data Scientist,Denver,$142k - $167k,"Python, Machine Learning, R, Sql, Excel",5+ years
+Data Scientist,Atlanta,$111k - $126k,"Python, Machine Learning, Sql",3-5 years
+Data Scientist,Remote,$96k - $117k,"Python, Machine Learning, Sql",0-2 years
+Analytics Engineer,New York,$135k - $162k,"Sql, Python, Azure",2-4 years
+Data Engineer,Remote,$144k - $171k,"Sql, Python, Azure",7+ years
+Data Analyst,Chicago,$107k - $123k,"Sql, Power Bi, Python",5+ years
+Data Engineer,Atlanta,$122k - $141k,"Sql, Python, Azure, Excel, Aws",2-4 years
+Senior Data Analyst,Atlanta,$126k - $144k,"Sql, Excel, R",5+ years
+Analytics Engineer,Atlanta,$129k - $152k,"Sql, Python, Azure, Spark, Power Bi",7+ years
+Data Engineer,Boston,$108k - $136k,"Sql, Python, Aws, Spark",3-5 years
+Data Engineer,Denver,$92k - $120k,"Sql, Python, Azure, Spark, Excel",0-2 years
+BI Developer,New York,$126k - $143k,"Sql, Tableau, Python",5+ years
+Data Analyst,Remote,$50k - $68k,"Sql, Tableau, Python",0-2 years
+Data Scientist,San Francisco,$140k - $168k,"Python, Machine Learning, Sql, Power Bi",3-5 years
+Senior Data Analyst,Remote,$120k - $139k,"Sql, Excel, Tableau",7+ years
+Data Engineer,San Francisco,$125k - $154k,"Sql, Python, Azure, Spark",3-5 years
+Machine Learning Engineer,San Francisco,$179k - $203k,"Python, Machine Learning, Sql, Excel",5+ years
+Data Analyst,Remote,$49k - $79k,"Sql, Tableau, Python, R",0-2 years
+Data Engineer,Chicago,$97k - $122k,"Sql, Python, Aws, R",0-2 years
+Senior Data Scientist,Seattle,$193k - $219k,"Python, Machine Learning, R",7+ years
+Data Scientist,Austin,$94k - $116k,"Python, Machine Learning, Sql",0-2 years
+Data Scientist,San Francisco,$123k - $141k,"Python, Machine Learning, R, Azure, Excel",2-4 years
+Senior Data Analyst,Chicago,$93k - $112k,"Sql, Power Bi, Python, Excel",3-5 years
+Data Analyst,Chicago,$80k - $104k,"Sql, Tableau, Python",2-4 years
+Machine Learning Engineer,Remote,$159k - $178k,"Python, Machine Learning, Sql, Aws",5+ years
+BI Developer,Austin,$80k - $96k,"Sql, Excel, Tableau, Python, Aws",3-5 years
+Data Engineer,Seattle,$172k - $194k,"Sql, Python, Azure, Spark",5+ years
+Machine Learning Engineer,Seattle,$152k - $167k,"Python, Machine Learning, Sql",3-5 years
+Senior Data Analyst,Boston,$119k - $140k,"Sql, Tableau, Azure, R, Excel",5+ years
+BI Developer,Remote,$58k - $80k,"Sql, Power Bi, Python",0-2 years
+Senior Data Scientist,Los Angeles,$180k - $202k,"Python, Machine Learning, R",7+ years
+Data Engineer,Remote,$138k - $157k,"Sql, Python, Azure, Spark",5+ years
+Analytics Engineer,Remote,$76k - $96k,"Sql, Python, Azure, Spark",0-2 years
+Senior Data Analyst,Remote,$81k - $107k,"Sql, Tableau, Excel, Azure",3-5 years
+Data Analyst,Boston,$76k - $92k,"Sql, Excel, Power Bi, Azure",3-5 years
+Senior Data Analyst,Remote,$122k - $142k,"Sql, Power Bi, R",5+ years
+Analytics Engineer,San Francisco,$153k - $176k,"Sql, Python, Aws, Spark, R",7+ years
+Data Analyst,Remote,$73k - $90k,"Sql, Excel, Python, Azure",3-5 years
+Senior Data Scientist,Remote,$136k - $165k,"Python, Machine Learning, Sql, Power Bi, Spark",3-5 years
+Lead Data Analyst,Austin,$130k - $151k,"Sql, Excel, Python",3-5 years
+BI Developer,Chicago,$84k - $99k,"Sql, Tableau, Python, Excel, Aws",3-5 years
+Data Analyst,Remote,$71k - $97k,"Sql, Power Bi, Excel",2-4 years
+Analytics Engineer,Remote,$98k - $128k,"Sql, Python, Aws, Tableau",3-5 years
+Data Engineer,Los Angeles,$151k - $166k,"Sql, Python, Azure, Spark",5+ years
+Data Analyst,Los Angeles,$62k - $91k,"Sql, Excel, Python, R",2-4 years
+Data Scientist,Remote,$82k - $97k,"Python, Machine Learning, Sql",0-2 years
+Data Analyst,Los Angeles,$61k - $88k,"Sql, Tableau, Azure, R",0-2 years
+BI Developer,Remote,$115k - $133k,"Sql, Power Bi, Python, Tableau",5+ years
+BI Developer,Seattle,$109k - $125k,"Sql, Power Bi, Python, R, Aws",3-5 years
+Senior Data Analyst,Seattle,$112k - $137k,"Sql, Excel, Python",3-5 years
+Data Analyst,Remote,$94k - $120k,"Sql, Tableau, Python, Excel, Aws",7+ years
+Analytics Engineer,Boston,$106k - $125k,"Sql, Python, Aws, Azure, Tableau",3-5 years
+Data Scientist,Seattle,$120k - $142k,"Python, Machine Learning, Sql, Tableau, Azure",0-2 years
+Data Analyst,San Francisco,$97k - $120k,"Sql, Power Bi, Python",2-4 years
+Senior Data Analyst,Remote,$85k - $114k,"Sql, Excel, Aws, Azure",3-5 years
+BI Developer,Austin,$89k - $117k,"Sql, Excel, Power Bi, Spark",3-5 years
+Data Scientist,Denver,$138k - $157k,"Python, Machine Learning, Sql",5+ years
+Senior Data Analyst,San Francisco,$147k - $175k,"Sql, Power Bi, Python",5+ years
+Data Analyst,Remote,$72k - $90k,"Sql, Power Bi, Azure",2-4 years
+Senior Data Analyst,Remote,$81k - $101k,"Sql, Power Bi",3-5 years
+Senior Data Analyst,Remote,$121k - $148k,"Sql, Excel, Tableau, Aws, Spark",5+ years
+Data Scientist,Remote,$141k - $158k,"Python, Machine Learning, R",5+ years
+Data Engineer,New York,$125k - $148k,"Sql, Python, Aws",0-2 years
+Senior Data Analyst,Remote,$123k - $142k,"Sql, Excel, Power Bi",5+ years
+Senior Data Scientist,Austin,$160k - $190k,"Python, Machine Learning, R, Spark",5+ years
+Data Scientist,Seattle,$167k - $193k,"Python, Machine Learning, Sql, Aws, R",5+ years
+Data Scientist,San Francisco,$114k - $136k,"Python, Machine Learning, Sql",0-2 years
+Senior Data Scientist,Remote,$163k - $179k,"Python, Machine Learning, Sql, Azure, Excel",7+ years
+Data Engineer,Remote,$95k - $115k,"Sql, Python, Aws, Spark",0-2 years
+Data Engineer,Remote,$150k - $165k,"Sql, Python, Aws, Spark",5+ years
+Machine Learning Engineer,Seattle,$145k - $163k,"Python, Machine Learning, R, Aws",3-5 years
+BI Developer,Atlanta,$70k - $94k,"Sql, Tableau, R, Python, Machine Learning",0-2 years
+Senior Data Analyst,Chicago,$120k - $142k,"Sql, Tableau, Python",7+ years
+Lead Data Analyst,Remote,$111k - $141k,"Sql, Tableau, Python, Aws, Spark",3-5 years
+Data Analyst,Remote,$51k - $81k,"Sql, Tableau",0-2 years
+Data Scientist,Austin,$96k - $114k,"Python, Machine Learning, Sql, R",0-2 years
+Data Analyst,New York,$78k - $103k,"Sql, Power Bi, Python",0-2 years
+Senior Data Scientist,New York,$182k - $203k,"Python, Machine Learning, Sql, Excel",5+ years
+BI Developer,Boston,$73k - $96k,"Sql, Excel",2-4 years
+Data Analyst,Los Angeles,$47k - $72k,"Sql, Power Bi, Azure, Machine Learning, R",0-2 years
+Machine Learning Engineer,Seattle,$146k - $175k,"Python, Machine Learning, R, Spark",2-4 years
+Senior Data Analyst,Remote,$127k - $150k,"Sql, Excel, Python",7+ years
+Data Analyst,Austin,$91k - $109k,"Sql, Excel, Python",5+ years
+Data Engineer,Boston,$116k - $141k,"Sql, Python, Aws, Spark",2-4 years
+Analytics Engineer,Denver,$138k - $168k,"Sql, Python, Aws, Spark, Power Bi",7+ years
+Machine Learning Engineer,Remote,$113k - $137k,"Python, Machine Learning, R",0-2 years
+Data Scientist,Remote,$105k - $133k,"Python, Machine Learning, Sql, Spark, Tableau",3-5 years
+Senior Data Analyst,Remote,$83k - $108k,"Sql, Excel",3-5 years
+Data Scientist,Remote,$139k - $160k,"Python, Machine Learning, R",7+ years
+Lead Data Analyst,Remote,$105k - $133k,"Sql, Power Bi, Python, Tableau",3-5 years
+Senior Data Analyst,Remote,$84k - $111k,"Sql, Power Bi, Machine Learning, Aws",3-5 years
+Data Analyst,Chicago,$68k - $85k,"Sql, Tableau, Excel",2-4 years
+Senior Data Scientist,Remote,$157k - $180k,"Python, Machine Learning, R",7+ years
+Data Engineer,Remote,$144k - $167k,"Sql, Python, Aws, Excel",7+ years
+Data Analyst,San Francisco,$110k - $128k,"Sql, Power Bi, R, Excel",5+ years
+Data Engineer,Remote,$112k - $129k,"Sql, Python, Azure, Machine Learning",2-4 years
+Data Scientist,Austin,$143k - $161k,"Python, Machine Learning, R, Excel",7+ years
+Data Analyst,Remote,$92k - $115k,"Sql, Tableau, Python, Spark, Excel",7+ years
+Data Scientist,Remote,$92k - $117k,"Python, Machine Learning, R",0-2 years
+Data Scientist,Boston,$142k - $170k,"Python, Machine Learning, Sql",5+ years
+Data Analyst,Chicago,$109k - $135k,"Sql, Excel, Python, Tableau",5+ years
+Data Engineer,Austin,$153k - $171k,"Sql, Python, Aws, Spark",7+ years
+Analytics Engineer,Seattle,$116k - $131k,"Sql, Python, Aws, Spark",0-2 years
+Senior Data Scientist,Remote,$158k - $179k,"Python, Machine Learning, R, Excel, Sql",5+ years
+Data Engineer,San Francisco,$111k - $140k,"Sql, Python, Azure, Tableau, R",0-2 years
+Senior Data Analyst,Los Angeles,$126k - $151k,"Sql, Tableau",5+ years
+Data Analyst,Remote,$104k - $124k,"Sql, Tableau, Python, Azure",5+ years
+Machine Learning Engineer,Austin,$170k - $196k,"Python, Machine Learning, Sql, Spark, Power Bi",7+ years
+Data Analyst,Austin,$47k - $76k,"Sql, Tableau, Python",0-2 years
+Data Scientist,Seattle,$169k - $196k,"Python, Machine Learning, Sql",7+ years
+Senior Data Scientist,Chicago,$150k - $177k,"Python, Machine Learning, R",3-5 years
+Machine Learning Engineer,Remote,$155k - $178k,"Python, Machine Learning, Sql, Spark, R",7+ years
+Data Engineer,Austin,$113k - $140k,"Sql, Python, Aws, Excel",3-5 years
+Data Analyst,Los Angeles,$46k - $64k,"Sql, Tableau, Spark, Power Bi, Azure",0-2 years
+Data Analyst,Seattle,$127k - $145k,"Sql, Excel, Python",7+ years
+Data Analyst,Boston,$109k - $139k,"Sql, Excel, Python, Azure, Aws",5+ years
+Senior Data Analyst,San Francisco,$149k - $166k,"Sql, Power Bi, Python",7+ years
+Data Analyst,Atlanta,$62k - $81k,"Sql, Tableau, Machine Learning, Azure, Excel",2-4 years
+Senior Data Analyst,San Francisco,$110k - $140k,"Sql, Excel",3-5 years
+Machine Learning Engineer,Chicago,$133k - $161k,"Python, Machine Learning, R, Aws, Azure",2-4 years
+Data Engineer,Atlanta,$116k - $136k,"Sql, Python, Aws, Spark",2-4 years
+Data Analyst,New York,$118k - $136k,"Sql, Power Bi, Python, R",7+ years
+Data Engineer,Seattle,$142k - $168k,"Sql, Python, Azure",2-4 years
+Analytics Engineer,Austin,$140k - $155k,"Sql, Python, Azure",5+ years
+Data Scientist,Denver,$138k - $160k,"Python, Machine Learning, Sql, Aws",5+ years
+Lead Data Analyst,Remote,$150k - $175k,"Sql, Power Bi, Python, Azure, Machine Learning",7+ years
+Machine Learning Engineer,Chicago,$156k - $177k,"Python, Machine Learning, R, Excel",7+ years
+Senior Data Scientist,San Francisco,$160k - $177k,"Python, Machine Learning, Sql",3-5 years
+Data Analyst,New York,$95k - $117k,"Sql, Excel, Python, Aws, Tableau",3-5 years
+Senior Data Analyst,Remote,$114k - $141k,"Sql, Tableau, Python, Spark",5+ years
+BI Developer,Chicago,$70k - $87k,"Sql, Power Bi, Python, Tableau",2-4 years
+BI Developer,Remote,$66k - $87k,"Sql, Power Bi, Python",3-5 years
+Data Analyst,Atlanta,$100k - $130k,"Sql, Power Bi, Python",5+ years
+Senior Data Analyst,San Francisco,$147k - $176k,"Sql, Excel, Python",7+ years
+Data Analyst,New York,$81k - $96k,"Sql, Power Bi, Python",0-2 years
+Data Engineer,Remote,$143k - $168k,"Sql, Python, Azure, Spark",5+ years
+Senior Data Analyst,Boston,$130k - $146k,"Sql, Tableau, Python",7+ years
+Lead Data Analyst,Boston,$116k - $144k,"Sql, Power Bi, Python",3-5 years
+Data Analyst,Remote,$91k - $107k,"Sql, Power Bi, Excel, Aws, Machine Learning",7+ years
+Data Scientist,New York,$115k - $136k,"Python, Machine Learning, R, Azure",0-2 years
+Data Scientist,Remote,$128k - $158k,"Python, Machine Learning, Sql",5+ years
+BI Developer,Atlanta,$79k - $105k,"Sql, Excel, Python",3-5 years
+Data Analyst,Remote,$49k - $73k,"Sql, Tableau, Python",0-2 years
+Data Engineer,Seattle,$164k - $181k,"Sql, Python, Aws, Spark",7+ years
+BI Developer,Atlanta,$78k - $95k,"Sql, Tableau",3-5 years
+BI Developer,Chicago,$106k - $121k,"Sql, Excel, Tableau, Azure, Machine Learning",5+ years
+Machine Learning Engineer,Denver,$154k - $183k,"Python, Machine Learning, R, Power Bi, Azure",5+ years
+BI Developer,Remote,$111k - $130k,"Sql, Tableau, Python",5+ years
+Data Scientist,San Francisco,$151k - $170k,"Python, Machine Learning, Sql",7+ years
+Machine Learning Engineer,Atlanta,$125k - $141k,"Python, Machine Learning, R",0-2 years
+Senior Data Analyst,Boston,$123k - $149k,"Sql, Power Bi, Tableau, Azure",5+ years
+BI Developer,New York,$91k - $115k,"Sql, Power Bi, Python",2-4 years
+Senior Data Analyst,Atlanta,$98k - $115k,"Sql, Excel, Python",3-5 years
+BI Developer,Atlanta,$107k - $137k,"Sql, Power Bi, Python, R, Aws",7+ years
+BI Developer,Denver,$82k - $100k,"Sql, Power Bi, Python, R",3-5 years
+Senior Data Analyst,Remote,$117k - $139k,"Sql, Excel, Python",7+ years
+Data Analyst,Seattle,$87k - $102k,"Sql, Power Bi, Python, Excel, Spark",3-5 years
+Senior Data Analyst,Denver,$120k - $144k,"Sql, Tableau, Python",7+ years
+Senior Data Analyst,Los Angeles,$96k - $121k,"Sql, Tableau, Python, Azure, Excel",3-5 years
+Data Engineer,New York,$131k - $156k,"Sql, Python, Azure, Spark, Tableau",3-5 years
+Data Engineer,Boston,$105k - $121k,"Sql, Python, Aws",3-5 years
+Senior Data Analyst,Remote,$113k - $129k,"Sql, Power Bi, Python, Tableau, Spark",7+ years
+BI Developer,Remote,$67k - $89k,"Sql, Tableau, Python",2-4 years
+Senior Data Scientist,Atlanta,$170k - $200k,"Python, Machine Learning, R, Azure, Power Bi",7+ years
+Senior Data Analyst,Los Angeles,$129k - $158k,"Sql, Excel, Python, Spark",7+ years
+Senior Data Scientist,San Francisco,$185k - $214k,"Python, Machine Learning, Sql",5+ years
+Data Scientist,Seattle,$151k - $169k,"Python, Machine Learning, Sql, Power Bi, Aws",5+ years
+Machine Learning Engineer,Chicago,$125k - $140k,"Python, Machine Learning, R, Power Bi",3-5 years
+Data Engineer,Remote,$146k - $167k,"Sql, Python, Azure",5+ years
+Lead Data Analyst,Remote,$154k - $179k,"Sql, Power Bi, Machine Learning",7+ years
+Senior Data Scientist,New York,$183k - $199k,"Python, Machine Learning, R, Tableau, Aws",5+ years
+Data Analyst,Atlanta,$75k - $102k,"Sql, Excel",2-4 years
+Senior Data Analyst,Remote,$110k - $128k,"Sql, Power Bi",7+ years
+Senior Data Scientist,Los Angeles,$171k - $196k,"Python, Machine Learning, R, Power Bi",5+ years
+BI Developer,Seattle,$138k - $157k,"Sql, Power Bi, Machine Learning, Spark",5+ years
+Senior Data Analyst,Remote,$130k - $159k,"Sql, Power Bi, Python",7+ years
+Senior Data Analyst,Seattle,$155k - $179k,"Sql, Tableau, Python",5+ years
+Machine Learning Engineer,Remote,$108k - $137k,"Python, Machine Learning, R",0-2 years
+Data Analyst,Los Angeles,$68k - $86k,"Sql, Power Bi",3-5 years
+Senior Data Analyst,New York,$107k - $129k,"Sql, Power Bi, Python, Excel",3-5 years
+BI Developer,Austin,$84k - $110k,"Sql, Power Bi, Python",2-4 years
+Data Analyst,Seattle,$123k - $151k,"Sql, Power Bi, Python",7+ years
+Senior Data Analyst,Remote,$115k - $141k,"Sql, Tableau",5+ years
+Data Analyst,Atlanta,$58k - $79k,"Sql, Tableau, Python, Power Bi, Spark",0-2 years
+Data Engineer,Seattle,$134k - $149k,"Sql, Python, Azure, Spark",3-5 years
+Senior Data Analyst,Austin,$127k - $145k,"Sql, Excel, Python",5+ years
+Data Analyst,New York,$121k - $139k,"Sql, Power Bi, Python, Aws",7+ years
+Data Scientist,New York,$166k - $182k,"Python, Machine Learning, R, Azure",5+ years
+Senior Data Analyst,Remote,$126k - $152k,"Sql, Power Bi, Python, Machine Learning",5+ years
+Data Engineer,Boston,$99k - $129k,"Sql, Python, Aws",0-2 years
+Data Analyst,Boston,$65k - $92k,"Sql, Excel, Python",0-2 years
+Analytics Engineer,Remote,$132k - $161k,"Sql, Python, Aws",5+ years
+Data Analyst,Denver,$64k - $79k,"Sql, Excel, Machine Learning",2-4 years
+Data Analyst,Remote,$52k - $75k,"Sql, Tableau, Machine Learning",0-2 years
+Data Analyst,New York,$87k - $104k,"Sql, Power Bi, Spark, R",3-5 years
+BI Developer,Seattle,$93k - $110k,"Sql, Tableau, Python",3-5 years
+Data Analyst,Remote,$93k - $120k,"Sql, Excel, Python, Tableau",5+ years
+BI Developer,Los Angeles,$76k - $92k,"Sql, Tableau, Aws, R, Azure",2-4 years
+Senior Data Scientist,San Francisco,$186k - $210k,"Python, Machine Learning, Sql, Power Bi",5+ years
+Senior Data Scientist,Denver,$174k - $204k,"Python, Machine Learning, R",7+ years
+Data Scientist,San Francisco,$122k - $152k,"Python, Machine Learning, R, Sql, Aws",3-5 years
+Analytics Engineer,Atlanta,$127k - $143k,"Sql, Python, Azure",5+ years
+Lead Data Analyst,Remote,$140k - $165k,"Sql, Excel, Python, R, Aws",5+ years
+Lead Data Analyst,Atlanta,$141k - $163k,"Sql, Excel, Python, Azure, Power Bi",7+ years
+Data Analyst,Remote,$42k - $69k,"Sql, Excel, Python",0-2 years
+Data Analyst,Remote,$98k - $114k,"Sql, Excel",7+ years
+BI Developer,Seattle,$97k - $117k,"Sql, Excel, Python",3-5 years
+Analytics Engineer,Atlanta,$133k - $160k,"Sql, Python, Azure",7+ years
+BI Developer,Chicago,$87k - $106k,"Sql, Tableau, Power Bi, Python, R",3-5 years
+Data Engineer,Remote,$103k - $129k,"Sql, Python, Azure, Machine Learning",3-5 years
+Senior Data Scientist,Los Angeles,$170k - $188k,"Python, Machine Learning, R, Sql",7+ years
+BI Developer,New York,$82k - $100k,"Sql, Tableau, Spark",0-2 years
+Data Analyst,San Francisco,$88k - $106k,"Sql, Power Bi, Python",2-4 years
+Data Engineer,Remote,$119k - $147k,"Sql, Python, Azure, Spark",2-4 years
+Data Analyst,Remote,$93k - $117k,"Sql, Tableau, Python",7+ years
+Machine Learning Engineer,Remote,$164k - $188k,"Python, Machine Learning, Sql",5+ years
+Senior Data Analyst,Remote,$80k - $108k,"Sql, Excel, Python, Power Bi",3-5 years
+BI Developer,Atlanta,$80k - $102k,"Sql, Power Bi, Python, Aws",3-5 years
+Machine Learning Engineer,Atlanta,$135k - $150k,"Python, Machine Learning, R",3-5 years
+Data Scientist,Los Angeles,$109k - $124k,"Python, Machine Learning, Sql, Power Bi, Aws",3-5 years
+Data Analyst,Austin,$52k - $81k,"Sql, Tableau, Python",0-2 years
+BI Developer,San Francisco,$137k - $157k,"Sql, Power Bi, Python, Azure, Excel",7+ years
+Machine Learning Engineer,Seattle,$153k - $178k,"Python, Machine Learning, Sql",2-4 years
+Data Engineer,Austin,$142k - $162k,"Sql, Python, Azure, Spark",7+ years
+Analytics Engineer,New York,$150k - $169k,"Sql, Python, Azure, Spark",7+ years
+Data Engineer,New York,$123k - $151k,"Sql, Python, Aws, Tableau, Azure",0-2 years
+Analytics Engineer,Atlanta,$90k - $107k,"Sql, Python, Azure, Spark",0-2 years
+Data Scientist,Denver,$117k - $145k,"Python, Machine Learning, Sql, Spark",3-5 years
+Data Engineer,New York,$123k - $142k,"Sql, Python, Aws",0-2 years
+Senior Data Scientist,Remote,$174k - $194k,"Python, Machine Learning, Sql",7+ years
+BI Developer,Austin,$82k - $109k,"Sql, Power Bi, Python, Machine Learning, Excel",3-5 years
+Data Engineer,New York,$129k - $157k,"Sql, Python, Aws, Spark",0-2 years
+BI Developer,Chicago,$105k - $123k,"Sql, Excel, Python",5+ years
+Senior Data Analyst,San Francisco,$125k - $146k,"Sql, Excel, Power Bi, R",3-5 years
+Data Analyst,Remote,$56k - $74k,"Sql, Excel, Python, Azure, Machine Learning",3-5 years
+Data Analyst,Remote,$58k - $79k,"Sql, Power Bi, Python, Aws",0-2 years
+Data Analyst,Remote,$61k - $85k,"Sql, Tableau, Azure, R",3-5 years
+Senior Data Scientist,Seattle,$185k - $203k,"Python, Machine Learning, R, Azure, Sql",7+ years
+Data Analyst,Boston,$60k - $75k,"Sql, Power Bi, Python, Aws, Spark",0-2 years
+Senior Data Analyst,Remote,$99k - $114k,"Sql, Power Bi, Python, Azure, Aws",3-5 years
+Data Analyst,Atlanta,$63k - $83k,"Sql, Tableau, Python",2-4 years
+Data Analyst,Remote,$105k - $134k,"Sql, Tableau, R, Python",7+ years
+Senior Data Analyst,New York,$155k - $174k,"Sql, Tableau, Azure",7+ years
+Senior Data Analyst,Chicago,$88k - $103k,"Sql, Tableau, Azure",3-5 years
+Data Analyst,New York,$94k - $113k,"Sql, Power Bi, Python",2-4 years
+Senior Data Analyst,Los Angeles,$121k - $139k,"Sql, Power Bi, Python",7+ years
+Lead Data Analyst,Boston,$149k - $171k,"Sql, Tableau, Python, Aws",7+ years
+Data Analyst,Los Angeles,$92k - $117k,"Sql, Excel, Tableau, Power Bi",7+ years
+Senior Data Analyst,Boston,$93k - $109k,"Sql, Power Bi, Python",3-5 years
+BI Developer,Remote,$65k - $90k,"Sql, Power Bi, Aws, Machine Learning, Excel",2-4 years
+Data Scientist,Remote,$100k - $127k,"Python, Machine Learning, Sql",3-5 years
+Data Engineer,Seattle,$140k - $160k,"Sql, Python, Azure, Spark, Excel",2-4 years
+Data Analyst,Remote,$102k - $127k,"Sql, Power Bi, Python",5+ years
+BI Developer,Seattle,$88k - $116k,"Sql, Power Bi, Machine Learning",0-2 years
+Senior Data Scientist,Remote,$162k - $182k,"Python, Machine Learning, Sql",7+ years
+Analytics Engineer,Remote,$104k - $127k,"Sql, Python, Aws, Spark",3-5 years
+Data Analyst,Remote,$104k - $129k,"Sql, Power Bi, Python",7+ years
+Data Engineer,Chicago,$152k - $170k,"Sql, Python, Azure, Spark",7+ years
+Data Scientist,Remote,$134k - $153k,"Python, Machine Learning, Sql",7+ years
+Data Engineer,Los Angeles,$105k - $120k,"Sql, Python, Aws, Spark",3-5 years
+Data Engineer,San Francisco,$128k - $154k,"Sql, Python, Azure, Spark",3-5 years
+Senior Data Analyst,Los Angeles,$116k - $134k,"Sql, Excel, Python",7+ years
+Lead Data Analyst,Remote,$107k - $129k,"Sql, Tableau, Python, R",3-5 years
+BI Developer,New York,$131k - $154k,"Sql, Tableau",5+ years
+BI Developer,Boston,$74k - $90k,"Sql, Power Bi, Machine Learning, R, Tableau",3-5 years
+Data Analyst,Remote,$69k - $88k,"Sql, Power Bi, Python",2-4 years
+Data Scientist,Austin,$141k - $166k,"Python, Machine Learning, R, Aws",7+ years
+Data Engineer,Boston,$107k - $131k,"Sql, Python, Aws, R, Azure",2-4 years
+Machine Learning Engineer,Denver,$160k - $177k,"Python, Machine Learning, R, Aws",5+ years
+Data Engineer,Denver,$151k - $173k,"Sql, Python, Aws, Excel, Azure",7+ years
+Data Engineer,Remote,$101k - $125k,"Sql, Python, Aws, Machine Learning",3-5 years
+Data Scientist,Remote,$99k - $120k,"Python, Machine Learning, Sql, Tableau",3-5 years
+Data Analyst,Remote,$87k - $108k,"Sql, Excel, Python, Azure",5+ years
+Data Scientist,Chicago,$135k - $165k,"Python, Machine Learning, Sql",5+ years
+Data Scientist,New York,$138k - $161k,"Python, Machine Learning, Sql",2-4 years
+Data Engineer,Denver,$151k - $170k,"Sql, Python, Aws, Spark",5+ years
+BI Developer,Remote,$69k - $89k,"Sql, Excel, Aws",2-4 years
+Data Scientist,New York,$162k - $179k,"Python, Machine Learning, R",7+ years
+Data Scientist,Boston,$131k - $155k,"Python, Machine Learning, R",5+ years
+Data Engineer,Remote,$115k - $142k,"Sql, Python, Aws, Excel",2-4 years
+Data Engineer,Remote,$137k - $160k,"Sql, Python, Azure",7+ years
+Machine Learning Engineer,Atlanta,$122k - $144k,"Python, Machine Learning, Sql",2-4 years
+Lead Data Analyst,Austin,$130k - $151k,"Sql, Tableau, Python",3-5 years
+Senior Data Scientist,New York,$153k - $174k,"Python, Machine Learning, R",3-5 years
+Data Scientist,Remote,$101k - $126k,"Python, Machine Learning, R",3-5 years
+Data Analyst,Los Angeles,$103k - $130k,"Sql, Tableau, Python, R",5+ years
+Lead Data Analyst,Remote,$141k - $157k,"Sql, Excel, Python, R",7+ years
+BI Developer,Remote,$85k - $115k,"Sql, Tableau",3-5 years
+Data Analyst,Austin,$107k - $124k,"Sql, Power Bi, Azure, Machine Learning, Excel",5+ years
+Data Analyst,Remote,$85k - $100k,"Sql, Excel, R, Tableau",5+ years
+BI Developer,Remote,$110k - $137k,"Sql, Tableau, Excel, R",7+ years
+Data Analyst,Atlanta,$50k - $72k,"Sql, Power Bi, Python",0-2 years
+Senior Data Analyst,Atlanta,$132k - $159k,"Sql, Excel, Python, Azure, R",7+ years
+BI Developer,Seattle,$99k - $129k,"Sql, Excel, Python, Spark",3-5 years
+BI Developer,Atlanta,$100k - $123k,"Sql, Power Bi, R",7+ years
+Senior Data Analyst,Chicago,$123k - $139k,"Sql, Power Bi",5+ years
+Senior Data Scientist,Remote,$135k - $160k,"Python, Machine Learning, R, Tableau",3-5 years
+BI Developer,New York,$125k - $155k,"Sql, Tableau, Python, Spark",5+ years
+Senior Data Analyst,Los Angeles,$120k - $144k,"Sql, Power Bi, Python, R, Machine Learning",5+ years
+Data Analyst,Los Angeles,$110k - $138k,"Sql, Tableau",5+ years
+Senior Data Analyst,San Francisco,$153k - $173k,"Sql, Power Bi, Azure, Aws",7+ years
+Senior Data Scientist,Remote,$136k - $163k,"Python, Machine Learning, Sql",3-5 years
+Analytics Engineer,Los Angeles,$113k - $134k,"Sql, Python, Azure",2-4 years
+Data Analyst,Los Angeles,$72k - $87k,"Sql, Power Bi, Python, Tableau, R",2-4 years
+Senior Data Analyst,Atlanta,$129k - $159k,"Sql, Power Bi, Python",7+ years
+Data Scientist,Boston,$85k - $113k,"Python, Machine Learning, Sql, Spark",0-2 years
+Data Scientist,Boston,$133k - $157k,"Python, Machine Learning, Sql, Tableau",5+ years
+Senior Data Scientist,Atlanta,$175k - $190k,"Python, Machine Learning, Sql, Excel",7+ years
+BI Developer,Austin,$71k - $100k,"Sql, Power Bi, Python, Tableau, R",0-2 years
