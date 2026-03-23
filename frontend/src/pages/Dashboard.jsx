@@ -3,7 +3,7 @@ import axios from 'axios';
 import { BarChart, Bar, XAxis, YAxis, Tooltip, ResponsiveContainer, CartesianGrid, Cell } from 'recharts';
 import { Briefcase, DollarSign, TrendingUp } from 'lucide-react';
 
-const API_BASE = 'http://127.0.0.1:5001';
+const API_BASE = 'https://job-listing-intelligence.onrender.com';
 const COLORS = ['#3b82f6', '#8b5cf6', '#ec4899', '#f59e0b', '#10b981'];
 
 export default function Dashboard() {
