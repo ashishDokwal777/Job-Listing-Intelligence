@@ -2,7 +2,7 @@ import React, { useEffect, useState } from 'react';
 import axios from 'axios';
 import { CheckCircle } from 'lucide-react';
 
-const API_BASE = 'https://job-listing-intelligence.onrender.com';
+const API_BASE = '';
 
 export default function Insights() {
   const [insights, setInsights] = useState([]);

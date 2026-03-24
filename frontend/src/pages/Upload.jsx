@@ -2,7 +2,7 @@ import React, { useState } from 'react';
 import axios from 'axios';
 import { Upload as UploadIcon, CheckCircle, FileText } from 'lucide-react';
 
-const API_BASE = 'https://job-listing-intelligence.onrender.com';
+const API_BASE = '';
 
 export default function Upload() {
   const [file, setFile] = useState(null);
